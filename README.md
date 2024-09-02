@@ -1,4 +1,4 @@
-# Naaptol - Footwear & Bags (Testing)
+# Naaptol - Footwear & Bags (POM Testing)
 
 ## Introduction
 
